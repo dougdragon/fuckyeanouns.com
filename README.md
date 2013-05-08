@@ -7,7 +7,7 @@ I just played around with Flask / Bottle and wanted to code up something quick s
 
 Have an idea that'll point me in a better direction? Send it or make a pull request. I love to learn.
 
-<strong>To run:</strong>
-install the requirements - pip install -r requirements.txt
-run: python fuckyeah.py
+<strong>To run:</strong><br />
+install the requirements - pip install -r requirements.txt<br />
+run: python fuckyeah.py<br />
 Open browser to http://localhost:5000
